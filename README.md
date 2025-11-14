@@ -1,0 +1,1 @@
+Interview Analyzer is a Python tool that helps you practice interviews end-to-end. It generates questions using Google Gemini, records and transcribes your answers locally with Whisper, analyzes your tone and confidence from audio, and provides consolidated AI feedback—all while minimizing API usage. Perfect for improving your interview skills and tracking progress over time.
