@@ -1,0 +1,35 @@
+{
+  "topic": "machine learning intern",
+  "questions": [
+    "Describe a machine learning project you've worked on, highlighting your contributions and the challenges you faced.",
+    "Explain your understanding of a specific machine learning algorithm (e.g., linear regression, decision trees, or a deep learning model) and its applications."
+  ],
+  "answers": [
+    "I worked on creating an Autism Detection Framework using multiple ML algorithms and the challenge was ensuring high accuracy.",
+    "Linear regression is a machine learning algorithm used to model the relationship between independent and dependent variables using a linear equation and it is best suitable for predicting values."
+  ],
+  "metrics": [
+    {
+      "duration_s": 12.467,
+      "words": 19,
+      "words_per_minute": 91.44140531001845,
+      "avg_pitch_hz": 114.92537227044149,
+      "pitch_std": 46.36911708251867,
+      "rms": 0.01705387607216835,
+      "silence_ratio": 0.007700328868212036,
+      "confidence_score_0_10": 5.06
+    },
+    {
+      "duration_s": 16.391375,
+      "words": 29,
+      "words_per_minute": 106.15338859613668,
+      "avg_pitch_hz": 110.32709032565398,
+      "pitch_std": 31.742605934220038,
+      "rms": 0.016061892732977867,
+      "silence_ratio": 0.0039044924541107306,
+      "confidence_score_0_10": 6.36
+    }
+  ],
+  "feedback": "```json\n[\n  {\n    \"question_index\": 1,\n    \"feedback\": \"Too brief; lacks depth on contributions, challenges, and results.  Expand on technical details and impact.\",\n    \"confidence_score\": 4,\n    \"follow_up\": \"Can you elaborate on the specific ML algorithms used, your role in selecting them, and how you addressed the accuracy challenge? What metrics did you use to evaluate accuracy, and what were the results?\"\n  },\n  {\n    \"question_index\": 2,\n    \"feedback\": \"Good basic explanation, but lacks depth in applications and limitations. More detail needed.\",\n    \"confidence_score\": 7,\n    \"follow_up\": \"Can you describe a specific application where linear regression excels and one where it might not be the best choice?  What are some of the assumptions of linear regression, and how can violations of these assumptions affect the model's performance?\"\n  }\n]\n```",
+  "timestamp": 1755034212.569355
+}
